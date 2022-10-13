@@ -12,49 +12,51 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 Below are the Results from six machine learning models that that we ran along with the balanced accuracy scores, the precision and recall scores.
 
 ### Naive Random Oversampling
-<img width="679" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/107590196/195480685-024d4ab8-1876-4e04-ab17-727c9ea39622.png">
+<img width="748" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/107590196/195483664-837bb4a9-93ec-49b0-98e1-e0bca8cbcafc.png">
 
-      -balanced accuracy scores
+      -balanced accuracy scores: 0.6456130066757718
       -precision
       -recall scores
 
 
 ### SMOTE Oversampling
-<img width="662" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/107590196/195480697-a447823c-bcc4-4772-b141-93b0d18c3c4e.png">
+<img width="739" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/107590196/195483681-c827f742-92f9-492c-8207-dd3d4b591ac1.png">
 
-      -balanced accuracy scores
+
+      -balanced accuracy scores: 0.6234433606890912
       -precision
       -recall scores
 
 ### Undersampling - ClusterCentroids
-<img width="658" alt="Undersampling" src="https://user-images.githubusercontent.com/107590196/195480708-6afdb715-60f8-418b-8009-6b40474fdcb0.png">
+<img width="750" alt="Undersampling - ClusterCentroids" src="https://user-images.githubusercontent.com/107590196/195483716-42eabe03-9789-4184-b716-0cb3d2351037.png">
 
 
-      -balanced accuracy scores
+      -balanced accuracy scores: 0.6234433606890912
       -precision
       -recall scores
 
 ### Combination (Over and Under) Sampling - SMOTEENN
-<img width="659" alt="Combination (Over and Under) Sampling" src="https://user-images.githubusercontent.com/107590196/195480717-91060972-74ea-43a3-8f9e-2021d34c18ec.png">
+<img width="713" alt="Combination (Over and Under) Sampling" src="https://user-images.githubusercontent.com/107590196/195483751-0958b00f-cff1-4521-9fe1-ca9467d8c3d6.png">
 
 
-      -balanced accuracy scores
+      -balanced accuracy scores: 0.5293026900499977
       -precision
       -recall scores
 
 ### Balanced Random Forest Classifier
-<img width="647" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/107590196/195480731-622e2038-ea65-410d-87b2-d8de7c02c962.png">
+<img width="732" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/107590196/195483774-f805098f-8de9-407e-9fd8-ae32be2e42d7.png">
 
 
-      -balanced accuracy scores
+      -balanced accuracy scores: 0.7877672625306695
       -precision
       -recall scores
 
 ### Easy Ensemble AdaBoost Classifier
-<img width="659" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/107590196/195480746-64e0cdf9-51d5-435d-ac55-170e5e527df8.png">
+<img width="739" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/107590196/195483833-7b32b779-e707-4d45-8c06-8005b5a6aea8.png">
 
 
-      -balanced accuracy scores
+
+      -balanced accuracy scores: 0.925427358175101
       -precision
       -recall scores
 
