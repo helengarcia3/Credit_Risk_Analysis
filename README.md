@@ -66,4 +66,11 @@ Below are the Results from six machine learning models that that we ran along wi
 
 ## Summary
 
+To summarize the six machine learning models we will compare the balanced accuracy, precision and recall scores.
+Balanced accuracy is best if it is closest to 1. When comparing the six models, the Easy Ensemble AdaBooster Classifier had the highest balanced accuracy at 92% while the others were all below 80%. 
+Precision for low risk was 1 for all of the models and the high risk was at a low range for all models. 
+The higher the recall score, the better the model is at identifying both positive and negative examples. The highest recal score was the Easy Ensemble AdaBooster Classifier.
+
+Easy Ensemble AdaBooster Classifierhad the highest balanced accuracy and recal score. These are indicators that this is the best model to use for further anlaysis in the credit card analysis.
+
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
